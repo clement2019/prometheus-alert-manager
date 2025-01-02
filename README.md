@@ -115,9 +115,4 @@ This can be done in multiple ways:
   * Import Dashboards - 6417, 3119, 8919, 7249, 11074 etc
 When you access the Grafana UI, you would appreciate the different components.
 
-## Hope you got it!
-
-## DevOps Training at Merciboi Systems Solutions
-
-# www.merciboi.com; www.merciboi.ca
 
